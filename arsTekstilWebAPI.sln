@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arsTekstil.API", "arsTekstil.API\arsTekstil.API.csproj", "{310FEC93-AE81-4EFD-89F8-980594A88493}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arsTekstil.Application", "arsTekstil.Application\arsTekstil.Application.csproj", "{C00DF1D8-350A-49E0-8E85-45BDCAE82A58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arsTekstil.Domain", "arsTekstil.Domain\arsTekstil.Domain.csproj", "{AAD77DAF-2F15-410B-B5EB-741BC16D152F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arsTekstil.Infrastructure", "arsTekstil.Infrastructure\arsTekstil.Infrastructure.csproj", "{8CA62002-7857-41C0-9E1B-E6A87F48EEC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arsTekstil.Persistence", "arsTekstil.Persistence\arsTekstil.Persistence.csproj", "{A69CB017-665F-4866-BBEA-3867CE930D9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{310FEC93-AE81-4EFD-89F8-980594A88493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{310FEC93-AE81-4EFD-89F8-980594A88493}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{310FEC93-AE81-4EFD-89F8-980594A88493}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{310FEC93-AE81-4EFD-89F8-980594A88493}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C00DF1D8-350A-49E0-8E85-45BDCAE82A58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C00DF1D8-350A-49E0-8E85-45BDCAE82A58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C00DF1D8-350A-49E0-8E85-45BDCAE82A58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C00DF1D8-350A-49E0-8E85-45BDCAE82A58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAD77DAF-2F15-410B-B5EB-741BC16D152F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAD77DAF-2F15-410B-B5EB-741BC16D152F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAD77DAF-2F15-410B-B5EB-741BC16D152F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAD77DAF-2F15-410B-B5EB-741BC16D152F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CA62002-7857-41C0-9E1B-E6A87F48EEC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CA62002-7857-41C0-9E1B-E6A87F48EEC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CA62002-7857-41C0-9E1B-E6A87F48EEC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CA62002-7857-41C0-9E1B-E6A87F48EEC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A69CB017-665F-4866-BBEA-3867CE930D9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A69CB017-665F-4866-BBEA-3867CE930D9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A69CB017-665F-4866-BBEA-3867CE930D9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A69CB017-665F-4866-BBEA-3867CE930D9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

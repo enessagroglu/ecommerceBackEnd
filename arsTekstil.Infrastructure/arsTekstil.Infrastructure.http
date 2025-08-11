@@ -1,0 +1,6 @@
+@arsTekstil.Infrastructure_HostAddress = http://localhost:5163
+
+GET {{arsTekstil.Infrastructure_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
